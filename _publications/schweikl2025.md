@@ -21,6 +21,8 @@ bibtex: |
 
 This study evaluates the three modelling approaches Cumulative Odds Model, XGBoost and LSTM to forecast the global geomagnetic index Hp30 up to 9 hours ahead, by applying a direct forecasing approach, which is provided by the forecastML R package. Therefore recently observed seasonal variations, solar wind data and Hp30 measurements are used as input data.
 
+This thesis received the Honorary Award of the Vlastislav Červený Prize (2024/25) from the [LC EAGE Czech Republic](http://www.eagelc.cz/index.html).
+
 
 📄 [PDF herunterladen](/_pages/404.md)  (currently not published)
 📜 [BibTeX anzeigen](/files/schweikl2025.bib)
